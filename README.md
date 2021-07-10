@@ -25,13 +25,14 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 <br>
 
-## Operating System and IDEs/Editor:
+## 💻Operating System and ⚒IDEs/Editor:
 
-[<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>](https://github.com/Humayungithub/Humayungithub)
+[<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://www.microsoft.com/en-us/windows)
+[<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://www.linux.org/)
+[<img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />](https://www.android.com/)
+[<img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>](https://code.visualstudio.com/)
+[<img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>](https://www.sublimetext.com/)
 
 <br>
 <br>
