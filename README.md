@@ -10,6 +10,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 <img align="left" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -33,6 +34,15 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 <a href="https://github.com/Humayungithub/ArtisanBD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Humayungithub&repo=ArtisanBD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+## Connect with me:
+
+[<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/humayunfb)
+[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png"/>](https://www.linkedin.com/in/humayunli/)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/humayun_insta/)
+[<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/humayuntweet)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/Humayungithub)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:humayun2911@gmail.com)
 
 <!--## Stargazers
 
