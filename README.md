@@ -11,6 +11,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 <img align="left" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -61,6 +62,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 <!-- Resources -->
 <!-- Icons: https://www.flaticon.com/ -->
+<!-- Icons: https://img.icons8.com/ -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
