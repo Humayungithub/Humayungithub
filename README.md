@@ -17,13 +17,11 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 [<img align="left" src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
 
 <br>
+<br>
 
 [<img align="left" src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
 [<img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Humayungithub/Humayungithub)
-
-<br>
-<br>
 
 ## Operating System and IDEs/Editor::
 
