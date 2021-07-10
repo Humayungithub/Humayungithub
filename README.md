@@ -12,8 +12,12 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+## Operating System and IDEs/Editor::
+
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
