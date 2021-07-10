@@ -12,9 +12,14 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" src="ps://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<br>
+<br>
 
 ## Operating System and IDEs/Editor::
 
@@ -23,6 +28,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img align="left" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
