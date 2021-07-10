@@ -2,6 +2,8 @@
 
 # Hello there, I am [Humayun Ahmed](https://www.linkedin.com/in/humayunli/)<img src="https://raw.githubusercontent.com/Humayungithub/Humayungithub/main/assets/wave.gif" width="30px">
 
+## Glad to see you here! ![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Humayungithub&repo=Humayungithub&countColorcountColor&countColor=%237B1E7A)
+
 My name is Humayun Ahmed and I'm a software developer engineer. I'm from Bangladesh, living in Dhaka and currently pursuing Computer Science and Engineering from BRAC University. You can find me on [![Facebook][1.1]][1], or on [![LinkedIn][2.1]][2], or on my website at [Itshumayun.com](https://itshumayun.com/).
 
 <!-- icons without padding -->
@@ -19,3 +21,4 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 <!-- Icons: https://www.flaticon.com/ -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
