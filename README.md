@@ -8,9 +8,24 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 ## 🔧 Technologies & Tools
 
-## Stargazers
+## &#x1f4c8; GitHub Stats
 
-[![Stargazers repo roster for @Humayungithub/Humayungithub](https://reporoster.com/stars/Humayungithub/Humayungithub)](https://github.com/Humayungithub/Humayungithub/stargazers)
+<a href="https://github.com/Humayungithub/Humayungithub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humayungithub&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Humayungithub/Humayungithub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Humayungithub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Humayun's GitHub Stats" />
+</a>
+<a href="https://github.com/Humayungithub/Excel-Online">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Humayungithub&repo=Excel-Online&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Humayungithub/ArtisanBD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Humayungithub&repo=ArtisanBD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<!--## Stargazers
+
+[![Stargazers repo roster for @Humayungithub/Humayungithub](https://reporoster.com/stars/Humayungithub/Humayungithub)](https://github.com/Humayungithub/Humayungithub/stargazers) -->
 
 <!-- icons without padding -->
 
