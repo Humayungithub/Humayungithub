@@ -10,7 +10,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=Vscode&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
