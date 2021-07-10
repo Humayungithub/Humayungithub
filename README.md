@@ -25,7 +25,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 <br>
 
-## 💻Operating System and ⚒IDEs/Editor:
+## 💻 Operating System and ⚒️ IDEs/Editor:
 
 [<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://www.microsoft.com/en-us/windows)
 [<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://www.linux.org/)
@@ -46,7 +46,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Humayungithub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Humayun's GitHub Stats" />
 </a>
 
-## Project
+## 📘 Project
 
 <a href="https://github.com/Humayungithub/Excel-Online">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Humayungithub&repo=Excel-Online&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -55,7 +55,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Humayungithub&repo=ArtisanBD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-## Connect with me:
+## 🤝 Connect with me
 
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/humayunfb)
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png"/>](https://www.linkedin.com/in/humayunli/)
