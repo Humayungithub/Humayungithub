@@ -8,13 +8,13 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 ## 🔧 Technologies & Tools
 
-[<img align="left" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
-[<img align="left" src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
+[<img align="left" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />](https://www.java.com/en/)
+[<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
+[<img align="left" src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />](https://www.djangoproject.com/)
+[<img align="left" src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
+[<img align="left" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />](https://reactjs.org/)
+[<img align="left" src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://getbootstrap.com/)
+[<img align="left" src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white" />](https://www.php.net/)
 
 <br>
 <br>
