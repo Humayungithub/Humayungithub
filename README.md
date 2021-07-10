@@ -25,7 +25,7 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 
 <br>
 
-## Operating System and IDEs/Editor::
+## Operating System and IDEs/Editor:
 
 [<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://github.com/Humayungithub/Humayungithub)
 [<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://github.com/Humayungithub/Humayungithub)
@@ -39,11 +39,14 @@ My name is Humayun Ahmed and I'm a software developer engineer. I'm from Banglad
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Humayungithub/Humayungithub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humayungithub&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humayungithub&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Humayungithub/Humayungithub">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Humayungithub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Humayun's GitHub Stats" />
 </a>
+
+## Project
+
 <a href="https://github.com/Humayungithub/Excel-Online">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Humayungithub&repo=Excel-Online&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
